@@ -1,0 +1,9 @@
+{
+    "name": "pc/fpoly-base-web3014",
+    "autoload": {
+        "psr-4": {
+            "Pc\\FpolyBaseWeb3014\\": "src/"
+        }
+    },
+    "require": {}
+}
